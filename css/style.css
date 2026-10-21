@@ -88,3 +88,17 @@ h2::after{
     color: rgb(224, 59, 59);
     margin-left: 10px;
 }
+
+dl {
+    margin: 20px;
+}
+
+dt {
+    font-weight: bold;
+    margin-top: 15px;
+    font-size: 20px;
+}
+img {
+    box-shadow: 0 0 0 3px #2563eb;
+
+}
